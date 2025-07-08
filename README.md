@@ -10,7 +10,10 @@ A visually rich and responsive **SpaceX homepage clone**, built using modern **H
 ![Preview](./screenshots/desktop-preview.png)
 *Homepage layout on desktop*
 
-![Mobile Menu](screenshots/mobile-menu.png)
+### 📱 Mobile View
+
+![Mobile View](./screenshots/mobile-preview.png)
+
 *Mobile responsive menu with hamburger toggle*
 
 ---
