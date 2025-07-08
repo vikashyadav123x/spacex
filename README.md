@@ -7,7 +7,7 @@ A visually rich and responsive **SpaceX homepage clone**, built using modern **H
 ---
 ## 📸 Preview
 
-![Preview](screenshots/desktop-preview.png)
+![Preview](./screenshots/desktop-preview.png)
 *Homepage layout on desktop*
 
 ![Mobile Menu](screenshots/mobile-menu.png)
