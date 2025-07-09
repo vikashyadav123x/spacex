@@ -54,3 +54,5 @@ git clone https://github.com/yourusername/spacex-clone.git
 cd spacex-clone
 open index.html
 
+Thank you
+
